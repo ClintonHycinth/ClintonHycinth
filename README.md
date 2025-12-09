@@ -42,7 +42,7 @@ Most of my learning is practical, and I document each lab as I progress.
 - **Entra ID (Azure AD)** for identity and access management  
 - **RBAC & Governance** for secure resource control  
 - **Infrastructure as Code (IaC)** concepts with ARM templates and Bicep  
-- **Linux administration** for VM management and troubleshooting  
+- **Linux & windows administration** for VM management and troubleshooting  
 - **Basic security tools** for cloud and system hardening  
 
 ## Certifications
