@@ -69,4 +69,4 @@ I also have some experience with Linux, scripting and basic security tools, whic
 - Continue expanding into **cloud security and compliance**  
 
 ## Connect with me
-LinkedIn: https://www.linkedin.com/in/<your-profile>
+LinkedIn: https://www.linkedin.com/in/clinton-hycinth
