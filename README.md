@@ -1,72 +1,48 @@
 # Hi, I'm Clinton Hycinth 👋
 
-## Skills Summary
-- Cloud administration (Azure infrastructure, networking, identity, governance)  
-- Resource deployment and access management  
-- Monitoring, troubleshooting, and cost optimization  
-- Automation with PowerShell, Azure CLI, and cloud-native tools  
-- Linux administration and scripting fundamentals  
-- Basic security practices for cloud and system hardening  
-- Documentation and version control with Git/GitHub  
+Azure Cloud Engineer focused on infrastructure, networking, identity, governance, monitoring, and automation in Microsoft Azure.
 
-I'm a cloud administrator in training focused on building hands-on experience across Azure infrastructure, networking, monitoring and automation.
+## Core Focus
+- Azure infrastructure administration
+- Networking and secure access design
+- Identity and access management with Entra ID
+- Governance with RBAC, Policy, and tagging
+- Monitoring, alerting, and troubleshooting
+- Automation with Azure CLI and PowerShell
+- Documentation and version control with Git/GitHub
 
-I recently completed the AZ-900 certification and I'm now working toward AZ-104.  
-Most of my learning is practical, and I document each lab as I progress.
-
-## What I'm working on
-- Azure administration (compute, networking, identity, governance)
-- Resource deployment and access management
-- Monitoring and cost awareness
-- Automation using scripts and cloud-native tools
-- Building small lab environments to reinforce concepts
-
-## Current learning path
-- Azure Administrator (AZ-104)
-- Infrastructure setup and management
-- Resource groups, VMs, storage, networking
-- Entra ID identity and access
-- Azure policies, RBAC and governance
-- Automation (PowerShell / CLI)
-
-## Tools I use
-- **Azure Portal** for resource management  
-- **Azure CLI** and **PowerShell** for automation  
-- **Visual Studio Code** for scripting and documentation  
-- **Git & GitHub** for version control and lab documentation  
-- **Azure Monitor** and **Log Analytics** for monitoring and troubleshooting  
-- **Microsoft Learn** and **Cloud Skills Challenge** for structured learning  
-
-## Technologies I'm learning
-- **Microsoft Azure** (Compute, Networking, Storage, Identity)  
-- **Entra ID (Azure AD)** for identity and access management  
-- **RBAC & Governance** for secure resource control  
-- **Infrastructure as Code (IaC)** concepts with ARM templates and Bicep  
-- **Linux & windows administration** for VM management and troubleshooting  
-- **Basic security tools** for cloud and system hardening  
+## Tools and Technologies
+- **Microsoft Azure**
+- **Azure Portal**
+- **Azure CLI**
+- **PowerShell**
+- **Azure Monitor**
+- **Log Analytics**
+- **Microsoft Entra ID**
+- **Git & GitHub**
+- **Visual Studio Code**
+- **Linux administration**
 
 ## Certifications
-- ✅ **AZ-900: Microsoft Azure Fundamentals** (completed)  
-- 📖 **AZ-104: Microsoft Azure Administrator** (in progress)  
-- 🎯 **AZ-305: Designing Microsoft Azure Infrastructure Solutions** (planned)  
+- ✅ **AZ-900: Microsoft Azure Fundamentals**
+- 📖 **AZ-104: Microsoft Azure Administrator** (in progress)
+- 🎯 **AZ-305: Designing Microsoft Azure Infrastructure Solutions** (planned)
 
-## What you'll find in my repositories
-- Hands-on Azure labs recreated step by step
-- Clean markdown documentation for each lab
-- Practical examples as I study for AZ-104
-- Cloud projects I build along the way
+## What You'll Find in My Repositories
+- Azure infrastructure and operations projects
+- Networking, monitoring, and governance implementations
+- Well-documented hands-on builds with clear architecture and validation
+- Practical Azure projects aligned with real cloud administration work
 
-## Background
-I also have some experience with Linux, scripting and basic security tools, which helps me understand cloud admin tasks and troubleshooting.
+## Current Areas of Work
+- Azure compute, storage, networking, and identity
+- Resource deployment and access management
+- Monitoring, alerting, and incident visibility
+- Automation and repeatable administration workflows
+- Cost awareness and operational efficiency
 
-## Future goals
-- **AZ-305: Designing Microsoft Azure Infrastructure Solutions**  
-  - Focus on advanced architecture, governance, and security  
-  - Designing resilient, scalable, and cost-optimized solutions  
-- Explore **DevOps practices** (CI/CD pipelines, GitHub Actions, Azure DevOps)  
-- Learn **containerization and orchestration** (Docker, Kubernetes on Azure)  
-- Build **hybrid cloud solutions** integrating on-premises with Azure services  
-- Continue expanding into **cloud security and compliance**  
+## Current Goal
+Deepening my Azure administration capability through practical implementation across infrastructure, networking, governance, monitoring, and automation while progressing toward **AZ-104**.
 
-## Connect with me
-LinkedIn: https://www.linkedin.com/in/clinton-hycinth
+## Connect with Me
+- **LinkedIn:** [linkedin.com/in/clinton-hycinth](https://www.linkedin.com/in/clinton-hycinth)
